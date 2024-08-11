@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@iconify-json/fa6-brands": "^1.1.22",
+    "@iconify-json/hugeicons": "^1.1.1",
     "@nuxt/ui": "^2.18.3",
     "nuxt": "^3.12.4",
     "vue": "latest"
