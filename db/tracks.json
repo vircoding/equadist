@@ -1,0 +1,24 @@
+{
+  "tracks": [
+    {
+      "title": "E4RC - THE CAVE (EQUADIST REMIX)",
+      "artUrl": "/001.jpg",
+      "id": 1
+    },
+    {
+      "title": "UNISIXN - 500 mhz (EQUADIST REMIX)",
+      "artUrl": "/002.jpg",
+      "id": 2
+    },
+    {
+      "title": "EQUADIST - THE BONK",
+      "artUrl": "/003.jpg",
+      "id": 3
+    },
+    {
+      "title": "EQUADIST - marpe",
+      "artUrl": "/004.jpg",
+      "id": 4
+    }
+  ]
+}
