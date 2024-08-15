@@ -2,23 +2,55 @@
   "tracks": [
     {
       "title": "E4RC - THE CAVE (EQUADIST REMIX)",
+      "year": "2024",
+      "duration": "2:34",
       "artUrl": "/001.jpg",
-      "id": 1
+      "id": 1,
+      "urls": {
+        "soundclound": "https://soundclound.com",
+        "youtube": null,
+        "spotify": "https://spotify.com",
+        "telegram": null
+      }
     },
     {
       "title": "UNISIXN - 500 mhz (EQUADIST REMIX)",
       "artUrl": "/002.jpg",
-      "id": 2
+      "year": "2024",
+      "duration": "3:21",
+      "id": 2,
+      "urls": {
+        "soundclound": "https://soundclound.com",
+        "youtube": "https://youtube.com",
+        "spotify": null,
+        "telegram": "https://telegram.com"
+      }
     },
     {
       "title": "EQUADIST - THE BONK",
       "artUrl": "/003.jpg",
-      "id": 3
+      "duration": "2:56",
+      "year": "2023",
+      "id": 3,
+      "urls": {
+        "soundclound": "https://soundclound.com",
+        "youtube": "https://youtube.com",
+        "spotify": "https://spotify.com",
+        "telegram": null
+      }
     },
     {
       "title": "EQUADIST - marpe",
       "artUrl": "/004.jpg",
-      "id": 4
+      "year": "2022",
+      "duration": "3:21",
+      "id": 4,
+      "urls": {
+        "soundclound": "https://soundclound.com",
+        "youtube": "https://youtube.com",
+        "spotify": "https://spotify.com",
+        "telegram": "https://telegram.com"
+      }
     }
   ]
 }
