@@ -13,17 +13,12 @@
     },
     {
       label: '',
-      icon: 'i-fa6-brands-spotify',
-      to: 'https://soundclound.com',
-    },
-    {
-      label: '',
-      icon: 'i-fa6-brands-itunes-note',
-      to: 'https://soundclound.com',
-    },
-    {
-      label: '',
       icon: 'i-fa6-brands-youtube',
+      to: 'https://soundclound.com',
+    },
+    {
+      label: '',
+      icon: 'i-fa6-brands-spotify',
       to: 'https://soundclound.com',
     },
     {
@@ -39,11 +34,6 @@
     {
       label: '',
       icon: 'i-fa6-brands-telegram',
-      to: 'https://soundclound.com',
-    },
-    {
-      label: '',
-      icon: 'i-fa6-brands-tiktok',
       to: 'https://soundclound.com',
     },
   ];
